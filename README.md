@@ -1,5 +1,7 @@
 # Olá, eu sou Gabriel Ribeiro 👋
-**Estudante de Ciência da Computação | Cursando 2° Semestre**
+
+## **Estudante de Ciência da Computação | Cursando 2° Semestre**
+Entusiasta na área de tecnologia, buscando evoluir a cada dia mais e aperfeiçoar cada vez mais minhas habilidades
 <!--
 **gabrielribeir027/gabrielribeir027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
