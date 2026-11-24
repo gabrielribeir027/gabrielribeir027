@@ -1,7 +1,8 @@
-## Hi there 👋
+## Olá, eu sou Gabriel Ribeiro 👋
 
 <!--
 **gabrielribeir027/gabrielribeir027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciência da Computação | Cursando 2° Semestre**
 
 Here are some ideas to get you started:
 
