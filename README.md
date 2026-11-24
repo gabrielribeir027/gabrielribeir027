@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de 
 
 Atualmente, estou aprofundando meus conhecimentos em lógica de programação e desenvolvimento, com foco na construção de uma base sólida em Ciência da Computação.
 
-# 💻 Tecnologias e conhecimentos:
+# 💻 Tecnologias e conhecimentos
 • Python
 
 • Lógica de Programação
