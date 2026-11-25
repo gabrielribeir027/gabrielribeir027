@@ -6,23 +6,17 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de 
 Atualmente, estou aprofundando meus conhecimentos em lógica de programação e desenvolvimento, com foco na construção de uma base sólida em Ciência da Computação.
 
 # 💻 Tecnologias e conhecimentos
-• Python
-
-• Lógica de Programação
-
-• VisualG
-
-• Git e GitHub
+- Python
+- Lógica de Programação
+- VisualG
+- Git e GitHub
 
 # 🚀 Objetivos:
 
-• Desenvolver projetos práticos e aprimorar minhas habilidades.
-
-• Explorar novas tecnologias e linguagens de programação.
-
-• Evoluir constantemente como desenvolvedor.
-
-• Construir uma carreira sólida na área de tecnologia.
+- Desenvolver projetos práticos e aprimorar minhas habilidades.
+- Explorar novas tecnologias e linguagens de programação.
+- Evoluir constantemente como desenvolvedor.
+- Construir uma carreira sólida na área de tecnologia.
 
 Acredito que a programação é um processo contínuo de aprendizado, e cada projeto representa uma nova oportunidade de evoluir.
 
